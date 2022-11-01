@@ -5,7 +5,9 @@
 ## Subtask 3 - *Dlaczego zdecydowałaś się na udział w challenge portfolio”?* 
 Hej, mam na imię Monika :) 
 
-    Zdecydowałam się na udział w projekcie ponieważ chciałbym przejść do branży IT. Kiedyś już w niej byłam, ale chce powrócić ;) Nie jesetem w 100% pewna czy QA jest dla mnie, dlatego nie chciałam inwestować w kursy, które kosztuja od 4-10k zł i na przeciw moim rozterkom wyszło Dare IT i właśnie ten projekt. Jest on idealną formą czasową jak i finansową, w której mogę sprawdzić czy QA jest dla mnie  :)
+Zdecydowałam się na udział w projekcie ponieważ chciałbym przejść do branży IT. Kiedyś już w niej byłam, ale chce powrócić ;) 
+Nie jesetem w 100% pewna czy QA jest dla mnie, dlatego nie chciałam inwestować w kursy, które kosztuja od 4-10k zł.
+Na przeciw moim rozterkom wyszło Dare IT i właśnie ten projekt. Jest on idealną formą czasową jak i finansową, w której mogę sprawdzić czy QA jest dla mnie  :)
 Moim celem jest zapoznanie się z tematem i zobaczenie czy się w nim sprawdzę. Poznanie ludzi o podobnym celu, zdobycie wiedzy, przygotowanie się do ew. rozmowy rekrutacyjnej :)
 
 Dzięki, że jesteście! :heart:
@@ -36,7 +38,8 @@ Dzięki, że jesteście! :heart:
     
 *4. Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).
 
-    - Aplikacja jest w miarę prosta, ale nie przy pierwszym zapoznaniu. Przycisk " dodać gracza" mimo, że na środku strony to mało widoczny i zakomunikowany *linki      pomocnicze*, a to w sumie główna funkcja strony.
+    - Aplikacja jest w miarę prosta, ale nie przy pierwszym zapoznaniu. Przycisk " dodać gracza" mimo, że na środku strony to mało widoczny
+      i zakomunikowany *linki pomocnicze*, a to w sumie główna funkcja strony.
     - Na  podstronie Gracze nie ma opcji *dodaj gracza*
     - nie do końca jest zrozumiała dla mnie nazwa funkcji *rozpocznij mecz*
     
