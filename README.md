@@ -11,3 +11,33 @@ Moim celem jest zapoznanie się z tematem i zobaczenie czy się w nim sprawdzę.
 Dzięki, że jesteście! :heart:
 
 **Monia**
+
+## Subtask 4
+
+*1. Na czym polega ta aplikacja? Do czego służy?*
+
+Aplikacja służy do tworzenia bazy danych piłkarzy, zarządzania graczami, meczami i do tworzenia raportów.
+
+*2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a?* 
+
+    - dodawannie i edytowanie danych zawodników, meczy w których grali,
+    - tworzenie pogłębionych raportów z meczy ocenijących prace piłkarza, jego udział w meczu, sposób myślenia, strategi itp.   
+    - dodawanie zdarzeń w meczu, w której minuci egracz wykonał akcję
+    - filtrowanie (wiek, imię, nazwisko, pozycja gracza, klub), sortowanie listy piłkarzy, wybór widocznych kolumn      
+    - drukowanie raportu    
+    - możliwość pobrania pliku CSV
+    - przekierowanie na sklacka twórców
+    - zmiana języka strony z menu głównego
+    
+
+   
+
+
+*3. Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?*
+*4. Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).
+*5. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
+    - brak możliwości usunięcia gracza
+    - można dodać datę urodzenia, meczu w przyszłą datą 
+    - z poziomu listy graczy nie można dodać gracza, tylko ze strony głównej
+    - w nazwisku moga występować cyfry
+    
