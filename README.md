@@ -38,8 +38,8 @@ Dzięki, że jesteście! :heart:
     
 *4. Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).
 
-    - Aplikacja jest w miarę prosta, ale nie przy pierwszym zapoznaniu. Przycisk " dodać gracza" mimo, że na środku strony to mało widoczny
-      i zakomunikowany *linki pomocnicze*, a to w sumie główna funkcja strony.
+    - Aplikacja jest w miarę prosta, ale nie przy pierwszym zapoznaniu. Przycisk " dodać gracza" mimo, że na środku strony 
+      to mało widoczny i zakomunikowany *linki pomocnicze*, a to w sumie główna funkcja strony.
     - Na  podstronie Gracze nie ma opcji *dodaj gracza*
     - nie do końca jest zrozumiała dla mnie nazwa funkcji *rozpocznij mecz*
     
