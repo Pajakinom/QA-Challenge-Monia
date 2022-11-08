@@ -1,6 +1,6 @@
 # QA-Challenge-Monia
 # TASK 1
-## Subtask 1
+## Subtask 1 - *Wyniki Testu*
     5/10
 ## Subtask 3 - *Dlaczego zdecydowałaś się na udział w challenge portfolio”?* 
 Hej, mam na imię Monika :) 
@@ -14,7 +14,7 @@ Dzięki, że jesteście! :heart:
 
 **Monia**
 
-## Subtask 4
+## Subtask 4 - *Odpowiedz na pytannia*
 
 *1. Na czym polega ta aplikacja? Do czego służy?*
 
@@ -53,5 +53,14 @@ Dzięki, że jesteście! :heart:
     - nie ma zdefiniowanych błędów - dlaczego niemożna zapisać gracza (w danym przypadku był to brak małpy w mailu)
 
 # TASK 2
-## Subtask 1
-[folder w Google Drive](https://drive.google.com/drive/u/1/folders/1xzmihBAUz93CmjAlQV37-yCQfahoNvT7)
+## Subtask 1 - *Pisanie przypadków testowych na podstawie User Story.*
+[plik w Google Drive](https://docs.google.com/spreadsheets/d/1IXpwrl_0bld4g8DqzcUOwiJ6HULMJYrgDEDmNDHzKdg/edit#gid=664785934)
+
+## Subtask 2 - *Pisanie przypadków testowych na podstawie własnych doświadczeń*
+[plik w Google Drive](https://docs.google.com/spreadsheets/d/1ncVX7uQm_nHjlIzPOm4qxk9soHaGALqlhz6dUkBmAc8/edit#gid=0)
+
+## Subtask 3 - *Po co piszemy test case’y?*
+
+Przypadki testowe piszemy, aby przedstawic w przejrzysty sposób różne możliwości przetestowanych funkcjonalności strony czy aplikacji. Mogą stać się bardzo dobrym źródłem informacji o testowanej aplikacji czy strony dla nowo przyjętych do zespołu ludzi.  
+
+
