@@ -51,3 +51,7 @@ Dzięki, że jesteście! :heart:
     - w nazwisku mogą występować cyfry
     - po kliknięciu w *dodaj raport* prekierowuje nas na podstronę meczy
     - nie ma zdefiniowanych błędów - dlaczego niemożna zapisać gracza (w danym przypadku był to brak małpy w mailu)
+
+# TASK 2
+## Subtask 1
+[folder w Google Drive](https://drive.google.com/drive/u/1/folders/1xzmihBAUz93CmjAlQV37-yCQfahoNvT7)
