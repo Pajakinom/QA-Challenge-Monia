@@ -69,3 +69,4 @@ Przypadki testowe piszemy, aby przedstawic w przejrzysty sposób różne możliw
 
 ## Subtask 3 - *Raport z wykonanych testów*
 [Plik w Google drive](https://docs.google.com/spreadsheets/d/1IpjxKKz6blsJE-xXNEeZ2Wqvc39zWSqXpt8Kha5OQSw/edit#gid=0)
+
