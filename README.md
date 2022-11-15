@@ -63,4 +63,9 @@ Dzięki, że jesteście! :heart:
 
 Przypadki testowe piszemy, aby przedstawic w przejrzysty sposób różne możliwości przetestowanych funkcjonalności strony czy aplikacji. Mogą stać się bardzo dobrym źródłem informacji o testowanej aplikacji czy strony dla nowo przyjętych do zespołu ludzi.  
 
+# TASK 3
+## Subtask 2 - *Testowanie według planów testów i raportowanie błędów*
+[Plik w Google drive] (https://docs.google.com/spreadsheets/d/1CWjVaH_BdHrLLiv5lBorBYiucMWWETSrflwv5sXxmyI/edit#gid=0)
 
+## Subtask 3 - *Raport z wykonanych testów*
+[Plik w Google drive] (https://docs.google.com/spreadsheets/d/1IpjxKKz6blsJE-xXNEeZ2Wqvc39zWSqXpt8Kha5OQSw/edit#gid=0)
