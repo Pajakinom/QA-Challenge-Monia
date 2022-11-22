@@ -72,7 +72,7 @@ Przypadki testowe piszemy, aby przedstawic w przejrzysty sposób różne możliw
 
 # TASK 4
 ## Subtask 2 - *Testowanie według planów testów i raportowanie błędów*
-[Plik w Google drive](https://docs.google.com/spreadsheets/d/1SkKLcE_ErXERSDntl99qrF4u7hEuc2lOmvUeIUhzDGE/edit#gid=0)
+[Plik w Google drive](https://docs.google.com/spreadsheets/d/1SkKLcE_ErXERSDntl99qrF4u7hEuc2lOmvUeIUhzDGE/edit#gid=0) 
 
 ## Subtask 3 - *Do czego służy ta aplikacja?*
 *1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?*
