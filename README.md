@@ -88,8 +88,9 @@ Przypadki testowe piszemy, aby przedstawic w przejrzysty sposób różne możliw
 *3. Czy według Ciebie aplikacja jest user friendly? 
 
      Zabrakło mi w Onboardingu w aplikacji, informacji jak sie po niej poruszać. Nie jest ona dla mnie tak od razu intuicyjna,
-     tymbardziej że ma pare błędów. Kolory są dosyc stonowane i osoba któr amam problemy z ich odróżnianiem może czuc
-     sie niekomfortowo, nie ma trybu ciemnego. rozmieszczenie elementów klikalnych jest w miarę dobrze usytuowane i wygodne.
+     tymbardziej że ma pare błędów. Kolory są dosyc stonowane i osoba któr amam problemy z ich odróżnianiem może czucć
+     sie niekomfortowo, nie ma trybu ciemnego. Rozmieszczenie elementów klikalnych jest w miarę dobrze usytuowane i wygodne poza paroma wyjatkami. 
+     Brak łatwodostępnej informacji o planie abonamentowym, widzimy go dopiero kiedy chcemy skorzystać z zablokowanych funkcji aplikacji
      
 *4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? *
 
@@ -98,7 +99,8 @@ Przypadki testowe piszemy, aby przedstawic w przejrzysty sposób różne możliw
         - w menu dolnym dałabym zamiast twórców to profil użytkownika
         - artykuły z bloga sa jedną ścianą tekstu, ławtiej by sie je czytało jakby były w nich przerywniki w formie zdjęć czy grafik
         - artukuły są pokazane w jednej linii nie można ich osobno wyświetlić w fomrie listy czy kafelków, tzreba jeprzesówać jeden po drugim,
-        - ćwiczenie oddechowe bez dżwięku ilicznika, nie wiadomo na jak długo trzeba wziąć oddech i jak długo go wydychać, 
-        tzreba patzreć cały czas na telelfon i nie można sie zrelaksować
+        - ćwiczenie oddechowe bez widocznego, słyszanlego licznika, nie wiadomo na jak długo trzeba wziąć oddech i jak długo go wydychać, 
+       
+       
        
      
