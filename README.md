@@ -105,7 +105,7 @@ Przypadki testowe piszemy, aby przedstawic w przejrzysty sposób różne możliw
     żyćko pokonało...dodam na dniach :)  
 
 # TASK 6
-## Subtask 1 - *Krótki kurs podstaw SQL *
+## Subtask 1 - *Krótki kurs podstaw SQL*
 [Plik w Google drive](https://docs.google.com/document/d/1qtF6uLZCxwVTUs6JnS8heFhi2y6ZRiuhCwCYifkV8jw/edit)
 
 ## Subtask 2 - *Test*
