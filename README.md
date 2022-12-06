@@ -101,6 +101,12 @@ Przypadki testowe piszemy, aby przedstawic w przejrzysty sposób różne możliw
         - artukuły są pokazane w jednej linii nie można ich osobno wyświetlić w fomrie listy czy kafelków, tzreba jeprzesówać jeden po drugim,
         - ćwiczenie oddechowe bez widocznego, słyszanlego licznika, nie wiadomo na jak długo trzeba wziąć oddech i jak długo go wydychać, 
        
-       
-       
-     
+# TASK 5 
+    żyćko pokonało...dodam na dniach :)  
+
+# TASK 6
+## Subtask 1 - Krótki kurs podstaw SQL 
+[Plik w Google drive](https://docs.google.com/document/d/1qtF6uLZCxwVTUs6JnS8heFhi2y6ZRiuhCwCYifkV8jw/edit)
+
+## Subtask 2 - Test
+    10/15
